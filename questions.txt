@@ -1,0 +1,60 @@
+>Guess, which peak is the highest on the Earth:
+-a - Mount Blanc
+-b - Elbrus
+*c - Mount Everest
+-d - Aconcagua
+
+>Now we are sure that the highest mountain on the Earth is Everest, but do you know how high is it?
+-a - 7 492 meters 
+*b - 8 848 meters 
+-c - 9 024 meters 
+-d - 8 611 meters
+
+>What about mountains on another planets? Where is the highest mountain in our solar system?
+-a - Earth
+-b - Venus
+-c - Jupiter 
+*d - Mars
+
+>Let's come back to the Earth :) Do you know name of the highest unclimbed peak?
+*a - Ganghar Puensum (Dzongkha)
+-b - Mana
+-c - Gyala Peri
+-d - Nanda Devi
+
+>How high is the volcano Mauna Kea, if measured from oceanic base?
+*a - around 10 000 meters
+-b - less than 8 500 meters 
+-c - more than 20 000 meters
+-d - around 15 000 meters
+
+>Where is located Aconcagua?
+-a - India
+-b - Peru
+*c - Argentina
+-d - China
+
+>How many eight-thousanders are still unclimed during winter?
+-a - 15
+*b - 1
+-c - 9
+-d - 2
+
+>Which eight-thousander is unclimed during winter?
+-a - Gaszerbrum II
+-b - Broad Peak
+-c - Nanga Parbat
+*d - K2
+
+>Do you like my mountain test ?
+*a - yes
+-b - it was boring as fuck
+-c - no
+-d - lame
+
+>Who inspired us to learn Python? 
+-a - my mum
+-b - reality
+-c - Maniutek :D
+*d - Kasia
+
